@@ -1,4 +1,19 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical)
+<h1 style='border-bottom: 1px solid black;'>Hi, I'm Faran Mohammadi🖐</h1>
+<br>
+<p>Fullstack Developer, Website designer💻</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,github,wordpress,figma,mysql" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <div style="display: flex; ">
+    <img style="width:30px;" src="https://skillicons.dev/icons?i=instagram" />
+    <a href="https://www.instagram.com/faranmhd.official/profilecard">:https://www.instagram.com/faranmhd.official/profilecard</a>
+      </div>
+  </a>
+</p>
 
 
 <!--
