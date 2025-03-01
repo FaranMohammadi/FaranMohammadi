@@ -3,7 +3,7 @@
 <p>Fullstack Developer, Website designer💻</p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,github,wordpress,figma,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,github,wordpress,figma,mysql,vue,tailwind,laravel" />
   </a>
 </p>
 
